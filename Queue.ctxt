@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Queue
+comment1.params=v
+comment1.target=void\ enqueue(Parcel)
+comment2.params=
+comment2.target=Parcel\ dequeue()
+comment3.params=
+comment3.target=Parcel\ getFront()
+comment4.params=
+comment4.target=Parcel\ getEnd()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+numComments=6

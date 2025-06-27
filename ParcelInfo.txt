@@ -1,0 +1,34 @@
+9012; Acme Ltd.; Sydney; 555-123-4567; Michael Johnson; Negeri Sembilan; 012-3456789;1;0;true;08/01/24;11/01/24
+3456; Global Enterprises; Mumbai; 987-654-3210; Sarah Lee; Kelantan;017-2345678;12;0;false;06/01/24;15/01/24
+7890; Tech Solutions; Beijing; 123-456-7890; David Miller; Perlis; 019-8765432; 21;0;false;10/01/24;17/01/24
+2345; Innovative Systems; Berlin; 555-123-4567; Emily Wilson; Selangor; 016-3456789; 45;0;true;03/01/24;13/01/24
+6789; Dynamic Innovations; Paris; 987-654-3210; James Davis; Île-de-France; 011-9876543;32;0;true;07/01/24;14/01/24
+0123; Creative Ventures; Toronto; 123-456-7890; Laura Anderson; Ontario; 013-2345678; 45;0;false;04/01/24;12/01/24
+4567; Future Technologies; Seoul; 555-123-4567; Daniel Martin; Seoul; 014-5678901;12;0;true;01/01/24;11/01/24
+8901; Visionary Solutions; Mexico City; 987-654-3210; Sophia Thompson; Negeri Sembilan; 012-3456789;50;0;true;02/01/24;17/01/24
+2345; Stellar Dynamics; Chiang Mai; 081-2345678; Sarah Thompson; Perlis; 018-9876543;8;0;true;09/01/24;15/01/24
+6723; Horizon Technologies; Java Barat; 0877-6543210; Danial Farhan; Masjid Tanah; 017-2345678;9;0;false;05/01/24;14/01/24
+1845; Apex Solutions; Mindanao del Norte; 0912-3456789; Emily Martinez; Kedah; 019-8765432;13;0;true; 10/01/24;12/01/24
+5739; Nebula Enterprises; Phnom Penh; 023-4567890; Daniel Brown; Kelantan; 016-3456789;22;0;true;03/01/24;13/01/24
+8271; Radiant Systems; Yangon; 09-876543210; Jessica Wilson; Perlis; 011-2345678;33;0;true;07/01/24;11/01/24
+4920; Synergy Innovators; Quang Nam; 092-3456789; Brian Davis; Negeri Sembilan; 014-5678901;30;0;false;02/01/24;17/01/24
+6518; Quantum Insights; Lampung; 0721-234567; Davie lewis; Pahang; 016-3456789;2;0;true;08/01/24;12/01/24
+6518; Quantum Insights; Lampung; 0721-2345678; Lisa Garcia; Pulau Pinang; 011-2345678;4;0;false;04/01/24;15/01/24
+7392; Astral Technologies; Vientiane Prefecture; 020-98765432; Kevin Miller; Pahang; 013-2345678;15;0;false;09/01/24;14/01/24
+2085; Visionary Ventures; Johor; 07-6543210; Ashley Smith; Sarawak; 014-5678901;16;0;false;06/01/24;13/01/24
+3614; Pinnacle Innovations; Central Luzon; 0917-2345678; Christopher Anderson; Kedah; 010-3456789;45;0;true;01/01/24;11/01/24
+9487; Zenith Solutions; Terengganu; 09-876543210; Jessica Thompson; Kuala Lumpur; 015-2345678;46;0;false;05/01/24;17/01/24
+5726; Fusion Dynamics; Shan State; 092-3456789; Andrew Hernandez; Selangor; 012-3456789;23;0;false;10/01/24;12/01/24
+1948; Ecliptic Innovations; Bac Giang; 0204-5678901; Megan Taylor; Terengganu; 018-9876543;5;0;true; 08/01/24;15/01/24
+8302; Nebula Dynamics; East Kalimantan; 0542-3456789; Robert Martin; Sabah; 017-2345678;6;0;true;04/01/24;14/01/24
+4615; Zenith Systems; Metro Manila; 0927-6543210; Olivia Wilson; Perak; 019-8765432;17;0;false;09/01/24;13/01/24
+7298; Pinnacle Enterprises; Sabah; 088-9876543; Ethan Garcia; Perlis; 016-3456789;23;0;true;03/01/24;14/01/24
+5184; Quantum Synergy; Kampong Cham; 012-3456789; Ava Brown; Negeri Sembilan; 011-2345678;24;0;true;07/01/24;11/01/24
+9623; Horizon Ventures; Penang; 04-5678901; Matthew Anderson; Kelantan; 013-2345678;15;0;true;02/01/24;17/01/24
+3750; Nova Innovations; Sulawesi Utara; 0431-2345678; Sophia Davis; Kuala Lumpur; 014-5678901;47;0;false;05/01/24;17/01/24
+3487; Quantum Innovations; Selangor; 0121234123; Jeronta Davis; Melaka; 01231414;48;0;false;10/01/24;12/01/24
+3487; Quantum Innovations; Selangor; 012-3456789; David Lee; Terengganu; 015-6789012;12;0;true;01/01/24;15/01/24
+6257; Stellar Enterprises; Sarawak; 082-9876543; Jessica Wilson; Sabah; 016-3456789;31;0;true;07/01/24;14/01/24
+1987; Visionary Systems; Pulau Pinang; 04-5678901; Daniel Martinez; Perlis; 017-2345678;34;0;false;08/01/24;17/01/24
+5124; Apex Innovations; Johor; 07-6543210; Emily Johnson; Pahang; 018-9876543;20;0;true;04/01/24;13/01/24
+7341; Nebula Solutions; Kedah; 04-5678901; Michael Davis; Pulau Pinang; 019-8765432;19;0;false;02/01/24;11/01/24
